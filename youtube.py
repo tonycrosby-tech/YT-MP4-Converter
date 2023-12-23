@@ -14,3 +14,11 @@ def yt_mp3(url, save_path):
   except Exception as error:
     print(error)
     
+def open_save_path():
+  """Opens file dialog to select folder to save"""
+  save_folder = filedialog.askdirectory()
+  if save_folder:
+    print(f"Selected folder: {save_folder}")
+    
+    return save_folder
+ 
