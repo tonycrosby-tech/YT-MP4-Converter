@@ -8,7 +8,7 @@
 ### YT-MP4-Converter is a simple command-line tool that allows you to convert YouTube videos to MP4 audio files with ease. No need to visit any online converter websites or install complex software – just provide the YouTube video URL, and YT-MP4-Converter will handle the rest.
 
 ## Live Demo
-![Live Demo](vid/yt-mp4.gif)
+![Live Demo](vid/new-gif.gif)
 
 ## Installation
 ### By installing pyinstaller with ```pip3 install pyinstaller```
