@@ -1,6 +1,6 @@
 # Welcome to YT-MP4-Converter 👋
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/Documentation-no-red)]()
+[![Documentation](https://img.shields.io/badge/Documentation-yes-green.svg)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![License: MIT](https://img.shields.io/github/license/tonycrosby-tech/YT-MP3-Converter)]( )
 
