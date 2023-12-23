@@ -1,11 +1,11 @@
-# Welcome to YT-MP3-Converter 👋
+# Welcome to YT-MP4-Converter 👋
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/Documentation-no-red)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![License: MIT](https://img.shields.io/github/license/tonycrosby-tech/YT-MP3-Converter)]( )
 
 ## Description
-### YT-Mp3-Converter is a simple command-line tool that allows you to convert YouTube videos to MP3 audio files with ease. No need to visit any online converter websites or install complex software – just provide the YouTube video URL, and YT-Mp3-Converter will handle the rest.
+### YT-MP4-Converter is a simple command-line tool that allows you to convert YouTube videos to MP4 audio files with ease. No need to visit any online converter websites or install complex software – just provide the YouTube video URL, and YT-MP4-Converter will handle the rest.
 
 ## Installation
 ### By installing pyinstaller with ```pip3 install pyinstaller```
